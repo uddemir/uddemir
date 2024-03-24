@@ -1,7 +1,7 @@
 [![MasterHead](https://img-b.udemycdn.com/course/750x422/4935906_e520.jpg)
 
 <h1 align="center">Hi 👋, I'm Uğur Demir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
