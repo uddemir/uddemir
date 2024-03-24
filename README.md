@@ -1,5 +1,3 @@
-[![MasterHead](https://img-b.udemycdn.com/course/750x422/4935906_e520.jpg)
-
 <h1 align="center">Hi 👋, I'm Uğur Demir</h1>
 <h3 align="center"></h3>
 
