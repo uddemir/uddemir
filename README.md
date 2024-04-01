@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Uğur Demir</h1>
+<h1 align="center">Hi 👋, I'm Uğur </h1>
 <h3 align="center">Hello, I’m Uğur. I’m a computer engineering graduate. I’ve been playing digital games since I was a kid. When I realized that I could develop these games, I decided to become a game developer. I’m a passionate game developer dedicated to creating enjoyable gaming experiences. I worked as a game developer for 2 years and 7 months in a studio that develops Hyper-Casual games. During this experience, I improved my Unity game engine and C# language skills. I developed projects as a team. I want to create even more enjoyable games and I am constantly improving my skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
